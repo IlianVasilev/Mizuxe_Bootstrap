@@ -2,8 +2,6 @@
 
 Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
 
-If you are looking for the alpha6 version [click here](https://github.com/bradtraversy/bs4starter_alpha6)
-
 ### Version
 
 1.0.0
@@ -20,4 +18,3 @@ npm install
 npm start
 ```
 
-Files are compiled into /src"# Bootstrap_project_Mizuxe" 
