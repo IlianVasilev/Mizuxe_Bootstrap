@@ -18,3 +18,4 @@ npm install
 npm start
 ```
 
+Files are compiled into /src
